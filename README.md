@@ -28,3 +28,7 @@ https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Des
 Learning C#:
 
 https://www.lynda.com/C-tutorials/Up-Running-C/164452-2.html?certificate=7FC54103609549C2A85A1F5A07055677
+
+Business Intelligence Specialist with Cognos Report Studio:
+
+https://drive.google.com/open?id=0B3hfaouexuIMTHJGVkJzMlRkaW54dUtjNm90UnNwVXhlcVFV
